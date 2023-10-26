@@ -1,4 +1,4 @@
 "# odin-recipes" 
 
-This is a page with links to a few recipes. 
-This is for practicing GIT and HTML.
+This is the first project of The Odin Project's Foundations Course. \n
+The page serves as an index with links to a few recipes and is designed for practicing Git and HTML.
